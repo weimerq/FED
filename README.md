@@ -41,11 +41,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Animal Profiles  
-  <img src="Animal Profiles" width="375px" alt="omschrijving van de pagina">
+  <img src="Animal Profiles" width="375px" alt="Een overzicht met de profielen van verschillende dieren">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Animal Learn More  
-  <img src="Animal Learn More" width="375px" alt="omschrijving van de pagina">
+  <img src="Animal Learn More" width="375px" alt="Een detailpagina over een specifiek dier">
  
 </details>
 
