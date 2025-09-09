@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  Surface plane
+  Responsive
  
 </details>
 
@@ -44,8 +44,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/animal-profiles.jpg" width="375px" alt="Een overzicht met de profielen van verschillende dieren">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Animal Learn More  
-  <img src="readme-images/animal-learn-more.jpg" width="375px" alt="Een detailpagina over een specifiek dier">
+  Amphibians  
+  
  
 </details>
 
@@ -230,7 +230,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. ChatGPT (vragen of de src atribute goed is gedaan)
   2. bron 2
   3. ...
 
