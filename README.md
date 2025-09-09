@@ -41,10 +41,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Animal Profiles  
-  <img src="readme-images/animal-profiles.jpg" width="375px" alt="Een overzicht met de profielen van verschillende dieren">
+  <img src="readme-images/animal-profiles.jpg" width="375px" alt="Een overzicht met de profielen van verschillende soorten dieren">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Amphibians  
+  <img src="readme-images/amphibians.jpg" width="375px" alt="Een overzicht met de profielen van verschillende soorten dieren">
   
  
 </details>
